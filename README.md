@@ -9,7 +9,7 @@ Antes de comenzar, asegurarse de tener instalado:
    
    ``` 
    git clone <url>
-   cd TCIT_PROJECT
+   cd tcit_challenge
     ```
 
 2. Instalar dependencias:
@@ -38,7 +38,7 @@ Antes de comenzar, asegurarse de tener instalado:
 1. Instalar dependencias:
 
     ```
-    cd /frontend
+    cd frontend
     npm install
     ```
 
